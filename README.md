@@ -1,16 +1,27 @@
-## Hi there 👋
+## Good day, I'm Indraneel Aarool Dev.
 
-<!--
-**SkullCrusher1405/SkullCrusher1405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Dev
+I like problem solving
+I try to grow to be the best version of myself.
 
-Here are some ideas to get you started:
+My Stack:
+- **Languages:** Java (Core + OOP), Python (Basics), HTML/CSS
+- **Tools:** Git, GitHub, IntelliJ Idea, VS Code, Linux CLI
+- **Currently Learning:** DSA, Web Dev
+- **Strengths:** Fast learner, Disciplined workflow, Hands-on
+- **Weaknesses:** IFallTooFastAahahahahaha (recruiters, ignore this)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On:
+- Sharpening DSA skills on LeetCode, NeetCode, and CodeChef
+- Building Java-Based projects (mini-tools, automation scripts) (failing miserably, so far (recruiters, ignore this too))
+- Preparing for software internships for when I get to college
+
+## Noteworthy Projects:
+
+
+## Connect:
+- **LinkedIn:** [linkedin.com](www.linkedin.com/in/indraneel-aarool-dev-7551512a9)
+- **E-mail:** indraneel14dev@gmail.com
+- **Portfolio:**
+
+_Fail miserably. Break into tears at 4 in the morning. Learn. Repeat._
