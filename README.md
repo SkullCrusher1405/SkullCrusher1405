@@ -12,6 +12,7 @@ My Stack:
 - **Weaknesses:** IFallTooFastAahahahahaha (recruiters, ignore this)
 
 ## What I'm Working On:
+- The Odin Project's Full Stack Course
 - Sharpening DSA skills on LeetCode, NeetCode, and CodeChef
 - Building Java-Based projects (mini-tools, automation scripts) (failing miserably, so far (recruiters, ignore this too))
 - Preparing for software internships for when I get to college
